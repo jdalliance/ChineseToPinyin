@@ -37,7 +37,7 @@ otherwise infringe the licensor's copyright in it for any
 permitted purpose, other than distributing the software or
 making changes or new works based on the software.
 
-## Patent License
+## Patent License 
 
 The licensor grants you a patent license for the software that
 covers patent claims the licensor can license, or becomes able
